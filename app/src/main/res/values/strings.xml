@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PasingDataUsingIntent</string>
+    <string name="login">Login</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="anand1">Anand1</string>
+
+
+</resources>
